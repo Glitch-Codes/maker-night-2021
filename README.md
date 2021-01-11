@@ -17,7 +17,6 @@ Arduino Playground: https://playground.arduino.cc/Interfacing/Processing/
     color: #fffff;
     background-color: #e2e2e2;
     border-radius: 5px;
-    padding: 12px;
     overflow: auto;">
     
     import processing.serial.*;
