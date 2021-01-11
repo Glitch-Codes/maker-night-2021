@@ -11,11 +11,7 @@ Arduino Playground: https://playground.arduino.cc/Interfacing/Processing/
 
 
 
-<p style="font-size: 13px;
-    line-height: 1.30769231;
-    background-color: #e2e2e2;
-    overflow: auto;">
-    
+<p style="line-height: 1.30769231; background-color: #e2e2e2; overflow: auto;"> 
     import processing.serial.*;
     import ddf.minim.*;
     import ddf.minim.analysis.*;
