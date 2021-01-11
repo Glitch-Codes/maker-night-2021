@@ -19,3 +19,8 @@
     import ddf.minim.*;
     import ddf.minim.analysis.*;
 </p>
+
+
+import processing.serial.*;
+import ddf.minim.*;
+import ddf.minim.analysis.*;
