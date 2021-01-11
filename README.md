@@ -11,7 +11,7 @@ Arduino Playground: https://playground.arduino.cc/Interfacing/Processing/
 
 
 
-<p style="background-color: #e2e2e2; overflow: auto;"> 
+<p style="overflow: auto;"> 
     
     import processing.serial.*;
     import ddf.minim.*;
