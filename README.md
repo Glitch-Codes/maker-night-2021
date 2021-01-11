@@ -11,8 +11,7 @@ Arduino Playground: https://playground.arduino.cc/Interfacing/Processing/
 
 
 
-<p> 
-    
+<p>  
     import processing.serial.*;
     import ddf.minim.*;
     import ddf.minim.analysis.*;
