@@ -5,7 +5,7 @@ https://processing.org/download/
 
 It also required the addition of a couple libraries: 
 
-Minim audio library: https://playground.arduino.cc/Interfacing/Processing/
+Minim audio library: http://code.compartmental.net/tools/minim/
     
 Arduino Playground: https://playground.arduino.cc/Interfacing/Processing/
 
