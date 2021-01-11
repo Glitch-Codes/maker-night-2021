@@ -3,7 +3,7 @@
 
 
 
-<h3> These are the required libraries we have to import into our project </h3>
+<h3> Import the libraries required for our project </h3>
 <p style="font-size: 13px;
     font-family: Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,sans-serif;
     line-height: 1.30769231;
@@ -19,8 +19,3 @@
     import ddf.minim.*;
     import ddf.minim.analysis.*;
 </p>
-
-
-import processing.serial.*;
-import ddf.minim.*;
-import ddf.minim.analysis.*;
