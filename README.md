@@ -12,7 +12,7 @@ Arduino Playground: https://playground.arduino.cc/Interfacing/Processing/
 
 
 <p style="font-size: 13px;
-    font-family: Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,sans-serif;
+    font-family: Consolas;
     line-height: 1.30769231;
     background-color: #e2e2e2;
     overflow: auto;">
