@@ -3,7 +3,7 @@
 This project is run a Java IDE called Processing. Please visit this link to download it:
 https://processing.org/download/
 
-It also required the addition of a couple libraries: 
+It also required the addition of a couple libraries, you can get these within Processing but here are the links to each apge: 
 
 Minim audio library: http://code.compartmental.net/tools/minim/
     
