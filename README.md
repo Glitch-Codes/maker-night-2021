@@ -1,6 +1,7 @@
 <h1> Reactive lights powered by Java! (Processing)</h1>
 
-
+This project is run a Java IDE called Processing. Please visit the link below to download it:
+https://processing.org/download/
 
 
 <h3> Import the libraries required for our project </h3>
