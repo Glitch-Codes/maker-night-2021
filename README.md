@@ -15,9 +15,9 @@ It also required the addition of a couple libraries:
     overflow: auto;
     scrollbar-color: var(--scrollbar) transparent;">
     
-    Minim audio library: http://code.compartmental.net/tools/minim/
+    Minim audio library: <a href="http://code.compartmental.net/tools/minim/">https://playground.arduino.cc/Interfacing/Processing/</a>
     
-    Arduino Playground: https://playground.arduino.cc/Interfacing/Processing/
+    Arduino Playground: <a href="https://playground.arduino.cc/Interfacing/Processing/">https://playground.arduino.cc/Interfacing/Processing/</a>
     
 </p>
 
