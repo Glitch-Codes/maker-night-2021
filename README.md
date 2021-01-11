@@ -12,7 +12,6 @@ Arduino Playground: https://playground.arduino.cc/Interfacing/Processing/
 
 
 <p style="font-size: 13px;
-    font-family: Consolas;
     line-height: 1.30769231;
     background-color: #e2e2e2;
     overflow: auto;">
