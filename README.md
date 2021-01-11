@@ -4,8 +4,8 @@
 <p style="font-size: 13px;
     font-family: Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,sans-serif;
     line-height: 1.30769231;
-    color: #e2e2e2;
-    background-color: var(--highlight-bg);
+    color: #fffff;
+    background-color: #e2e2e2;
     border-radius: 5px;
     margin: 0;
     padding: 12px;
