@@ -11,7 +11,7 @@ Arduino Playground: https://playground.arduino.cc/Interfacing/Processing/
 
 
 
-<p style="overflow: auto;"> 
+<p> 
     
     import processing.serial.*;
     import ddf.minim.*;
