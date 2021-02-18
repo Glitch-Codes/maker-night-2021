@@ -8,12 +8,3 @@ It also required the addition of a couple libraries, you can get these within Pr
 Minim audio library: http://code.compartmental.net/tools/minim/
     
 Arduino Playground: https://playground.arduino.cc/Interfacing/Processing/
-
-
-
-<p>  
-    
-    import processing.serial.*;
-    import ddf.minim.*;
-    import ddf.minim.analysis.*;
-</p>
